@@ -1,11 +1,11 @@
 <?php
 /**
 	 * Plugin Name: BeZ_table
-	 * Plugin URI: http://bez-sso.ru
+	 * Plugin URI: https://stacksite.ru
 	 * Description: Add table from csv file
 	 * Version: 1.1
-	 * Author: BeZ
-	 * Author URI: http://bez-sso.ru
+	 * Author: Sapronov Sergey
+	 * Author URI: https://stacksite.ru
 	 */
 
 
