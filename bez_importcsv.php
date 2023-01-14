@@ -1,11 +1,9 @@
 <?php
 /*
 Plugin Name: BeZ_importCSV
-Plugin URI: http://csv.bez-sso.ru
 Description: Загрузка файла csv для графиков v 2.5
 Version:  2.5 (25.07.2018)
-Author: BeZ
-Author URI: http://bez-sso.ru/wp/plugins/
+Author: Sapronov Sergey
 */
 
 add_action('admin_menu', 'bz_add_pages');
